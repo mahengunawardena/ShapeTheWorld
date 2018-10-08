@@ -8,7 +8,7 @@
 //============================================================================
 /*
  * ShapetheWorldAttribuite.java
- * Implementation of a ShapetheWorldAttribuite class to interface to scan for  
+ * Implementation of a ShapetheWorldAttribuite class to interface to scan for
  *
  *
  * Copyright Mahendra Gunawardena, Mitisa LLC
